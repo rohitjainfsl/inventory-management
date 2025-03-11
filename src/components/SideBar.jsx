@@ -10,7 +10,6 @@ const Sidebar = () => {
       <Link to="/return" className="text-left px-4 py-2 hover:bg-orange-400">Return</Link>
       <Link to="/summary" className="text-left px-4 py-2 hover:bg-orange-400">Summary</Link>
       <Link to="/report" className="text-left px-4 py-2 hover:bg-orange-400">Report</Link>
-      <Link to="/login" className="mt-auto px-10 py-2 bg-yellow-300 hover:bg-yellow-500 rounded ">Back to Login</Link>
     </aside>
   );
 };
